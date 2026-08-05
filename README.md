@@ -19,7 +19,7 @@ The system is separated into three distinct modules:
 ```bash
 
 # Clone the repository
-git clone [https://github.com/Vanshbits/Micro-Economy-Engine.git](https://github.com/Vanshbits/Micro-Economy-Engine.git)
+git clone https://github.com/Vanshbits/Micro-Economy-Engine.git
 cd Micro-Economy-Engine
 
 # Install dependencies
