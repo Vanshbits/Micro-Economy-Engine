@@ -28,8 +28,8 @@ pip install -r requirements.txt
 # Step 1: Run the simulation (Generates simulation_data.csv)
 python simulator.py
 
-# Step 2: View the analytics (Displays the wealth distribution graph)
-python city_analysis.py
-
-# Step 3: Render the environment (Exports animation / displays interactive window)
+# Step 2: Render the environment (Exports animation / displays interactive window)
 python sim_render.py
+
+# Step 3: View the analytics (Displays the wealth distribution graph)
+python city_analysis.py
