@@ -1,0 +1,21 @@
+# Environments
+.venv/
+env/
+ENV/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated Simulation Data
+*.csv
+
+# Rendered Media and Graphs
+*.mp4
+*.gif
+*.png
+
+# VS Code Local Settings
+*.code-workspace
+.vscode/
