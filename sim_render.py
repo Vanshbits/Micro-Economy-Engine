@@ -27,7 +27,7 @@ ax.tick_params(colors='#94A3B8')
 # 2. Apply Custom Typography to Title (Curvy, italic, white)
 ax.set_xlim(-1, 12)
 ax.set_ylim(-1, 12)
-ax.set_title("SimCity Economy: Real-Time Engine", 
+ax.set_title("Micro Economy: Real-Time Engine", 
              color='white', 
              fontsize=22, 
              pad=20,
